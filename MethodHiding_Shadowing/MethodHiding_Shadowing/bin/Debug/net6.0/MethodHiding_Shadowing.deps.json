@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MethodHiding_Shadowing/1.0.0": {
+        "runtime": {
+          "MethodHiding_Shadowing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MethodHiding_Shadowing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
