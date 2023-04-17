@@ -1,0 +1,15 @@
+C:\Users\kanhaiya.bhayana\source\repos\C#\InheritanceProject\InheritanceProject\bin\Debug\net6.0\InheritanceProject.exe
+C:\Users\kanhaiya.bhayana\source\repos\C#\InheritanceProject\InheritanceProject\bin\Debug\net6.0\InheritanceProject.deps.json
+C:\Users\kanhaiya.bhayana\source\repos\C#\InheritanceProject\InheritanceProject\bin\Debug\net6.0\InheritanceProject.runtimeconfig.json
+C:\Users\kanhaiya.bhayana\source\repos\C#\InheritanceProject\InheritanceProject\bin\Debug\net6.0\InheritanceProject.dll
+C:\Users\kanhaiya.bhayana\source\repos\C#\InheritanceProject\InheritanceProject\bin\Debug\net6.0\InheritanceProject.pdb
+C:\Users\kanhaiya.bhayana\source\repos\C#\InheritanceProject\InheritanceProject\obj\Debug\net6.0\InheritanceProject.csproj.AssemblyReference.cache
+C:\Users\kanhaiya.bhayana\source\repos\C#\InheritanceProject\InheritanceProject\obj\Debug\net6.0\InheritanceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanhaiya.bhayana\source\repos\C#\InheritanceProject\InheritanceProject\obj\Debug\net6.0\InheritanceProject.AssemblyInfoInputs.cache
+C:\Users\kanhaiya.bhayana\source\repos\C#\InheritanceProject\InheritanceProject\obj\Debug\net6.0\InheritanceProject.AssemblyInfo.cs
+C:\Users\kanhaiya.bhayana\source\repos\C#\InheritanceProject\InheritanceProject\obj\Debug\net6.0\InheritanceProject.csproj.CoreCompileInputs.cache
+C:\Users\kanhaiya.bhayana\source\repos\C#\InheritanceProject\InheritanceProject\obj\Debug\net6.0\InheritanceProject.dll
+C:\Users\kanhaiya.bhayana\source\repos\C#\InheritanceProject\InheritanceProject\obj\Debug\net6.0\refint\InheritanceProject.dll
+C:\Users\kanhaiya.bhayana\source\repos\C#\InheritanceProject\InheritanceProject\obj\Debug\net6.0\InheritanceProject.pdb
+C:\Users\kanhaiya.bhayana\source\repos\C#\InheritanceProject\InheritanceProject\obj\Debug\net6.0\InheritanceProject.genruntimeconfig.cache
+C:\Users\kanhaiya.bhayana\source\repos\C#\InheritanceProject\InheritanceProject\obj\Debug\net6.0\ref\InheritanceProject.dll
