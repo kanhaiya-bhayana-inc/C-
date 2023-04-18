@@ -2,7 +2,7 @@
 {
     interface ItestInnterface1
     {
-        void Add(int a,int b);
+        void Add(int a,int b); // by default this method is public and abstract.... and while overriding do not need to use override keyword
     }
     interface ItestInnterface2 : ItestInnterface1
     {
