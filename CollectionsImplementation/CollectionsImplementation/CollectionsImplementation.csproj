@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CollectionsImplementation.HashCollection</StartupObject>
+    <StartupObject>CollectionsImplementation.GenericList</StartupObject>
   </PropertyGroup>
 
 </Project>
