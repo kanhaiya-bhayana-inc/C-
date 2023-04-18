@@ -1,0 +1,15 @@
+C:\Users\kanhaiya.bhayana\source\repos\C#\EnumImplementation\EnumImplementation\bin\Debug\net6.0\EnumImplementation.exe
+C:\Users\kanhaiya.bhayana\source\repos\C#\EnumImplementation\EnumImplementation\bin\Debug\net6.0\EnumImplementation.deps.json
+C:\Users\kanhaiya.bhayana\source\repos\C#\EnumImplementation\EnumImplementation\bin\Debug\net6.0\EnumImplementation.runtimeconfig.json
+C:\Users\kanhaiya.bhayana\source\repos\C#\EnumImplementation\EnumImplementation\bin\Debug\net6.0\EnumImplementation.dll
+C:\Users\kanhaiya.bhayana\source\repos\C#\EnumImplementation\EnumImplementation\bin\Debug\net6.0\EnumImplementation.pdb
+C:\Users\kanhaiya.bhayana\source\repos\C#\EnumImplementation\EnumImplementation\obj\Debug\net6.0\EnumImplementation.csproj.AssemblyReference.cache
+C:\Users\kanhaiya.bhayana\source\repos\C#\EnumImplementation\EnumImplementation\obj\Debug\net6.0\EnumImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanhaiya.bhayana\source\repos\C#\EnumImplementation\EnumImplementation\obj\Debug\net6.0\EnumImplementation.AssemblyInfoInputs.cache
+C:\Users\kanhaiya.bhayana\source\repos\C#\EnumImplementation\EnumImplementation\obj\Debug\net6.0\EnumImplementation.AssemblyInfo.cs
+C:\Users\kanhaiya.bhayana\source\repos\C#\EnumImplementation\EnumImplementation\obj\Debug\net6.0\EnumImplementation.csproj.CoreCompileInputs.cache
+C:\Users\kanhaiya.bhayana\source\repos\C#\EnumImplementation\EnumImplementation\obj\Debug\net6.0\EnumImplementation.dll
+C:\Users\kanhaiya.bhayana\source\repos\C#\EnumImplementation\EnumImplementation\obj\Debug\net6.0\refint\EnumImplementation.dll
+C:\Users\kanhaiya.bhayana\source\repos\C#\EnumImplementation\EnumImplementation\obj\Debug\net6.0\EnumImplementation.pdb
+C:\Users\kanhaiya.bhayana\source\repos\C#\EnumImplementation\EnumImplementation\obj\Debug\net6.0\EnumImplementation.genruntimeconfig.cache
+C:\Users\kanhaiya.bhayana\source\repos\C#\EnumImplementation\EnumImplementation\obj\Debug\net6.0\ref\EnumImplementation.dll
