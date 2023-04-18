@@ -1,7 +1,7 @@
 ﻿/*
     In this example,
          We created a class which contains the Customer fields,
-        after that created a Generic List with DataType Cutomer and insert the values inside the list..
+        after that created a Generic List with User-defined type Cutomer and insert the values inside the list..
 */
 
 using System;
