@@ -7,6 +7,7 @@ namespace CollectionsImplementation
     {
         static void Main()
         {
+            // Generic List is type safe and has auto resizing capability..
             List<int> list = new List<int>();
             list.Add(1);
             list.Add(2);
