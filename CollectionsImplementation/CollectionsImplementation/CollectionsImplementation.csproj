@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CollectionsImplementation.GenericExample1</StartupObject>
+    <StartupObject>CollectionsImplementation.TestGeneric</StartupObject>
   </PropertyGroup>
 
 </Project>

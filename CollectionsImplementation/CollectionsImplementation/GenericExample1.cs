@@ -15,6 +15,7 @@ namespace CollectionsImplementation
         // Solution is Generics
         // ***************************************************************
 
+        // Creating a method as a GENEREIC 
         public bool Compare<T>(T a, T b)
         {
             if(a.Equals(b)) return true;
