@@ -15,14 +15,14 @@
         }*/
     class Program
     {
-        public static Days MeetingDays { get; set; } = Days.Monday; // This is default like MeetingDay is monday...
+        public static Days MeetingDay { get; set; } = Days.Monday; // This is default like MeetingDay is monday...
         static void Main(string[] args)
         {
-            /*Console.WriteLine(MeetingDays);
+            /*Console.WriteLine(MeetingDay);
 
-            MeetingDays = Days.Wednesday; // Updating the meetingDay.....
+            MeetingDay = Days.Wednesday; // Updating the meetingDay.....
 
-            Console.WriteLine(MeetingDays);*/
+            Console.WriteLine(MeetingDay);*/
             // Inside foreach loop defined the datatype of the enum if you defined explicitly while creating the enum..
             foreach (string day in Enum.GetNames(typeof(Days)))
             {

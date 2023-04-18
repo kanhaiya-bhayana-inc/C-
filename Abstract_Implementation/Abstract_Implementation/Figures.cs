@@ -6,6 +6,9 @@ namespace Abdtract_Implementation
     {
         public double height, width, radius;
         public const float pi = 3.14f;
+
+        /*Abastract keyword restrict to define the body of the method, 
+        you may define the implementation of the method by removing the abstract keyword....*/
         public abstract double GetArea();
     }
 
