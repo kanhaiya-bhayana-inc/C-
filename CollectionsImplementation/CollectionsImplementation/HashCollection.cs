@@ -12,6 +12,7 @@ namespace CollectionsImplementation
             ht.Add("EmpName", "Atul Mishra");
             ht.Add("Phone", "+91-1234567890");
             ht.Add("Address", "Delhi");
+            ht.Add("Salary", 100000.00);
 
             foreach (string key in ht.Keys)
             {
