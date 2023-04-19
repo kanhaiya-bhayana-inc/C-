@@ -43,22 +43,41 @@ namespace CollectionsImplementation
     }
     internal class Exaple_IComparable_IComparer
     {
+        public static int CompareNames(Student S1, Student S2)
+        {
+            return S1.Name.CompareTo(S2.Name);
+        }
         static void Main()
         {
 
-            Student c1 = new Student { Id = 1, Name = "Scott", City = "Hyderabad", Phone = "+91-1234567890", Marks = 89.56 };
+            Student c1 = new Student { Id = 1, Name = "Arik", City = "Hyderabad", Phone = "+91-1234567890", Marks = 89.56 };
             Student c2 = new Student { Id = 2, Name = "Smith", City = "Chennai", Phone = "+91-1234567890", Marks = 79.56 };
             Student c3 = new Student { Id = 3, Name = "Dave", City = "Pune", Phone = "+91-1234567890", Marks = 99.56 };
-            Student c4 = new Student { Id = 4, Name = "Devid", City = "Delhi", Phone = "+91-1234567890", Marks = 59.56 };
+            Student c4 = new Student { Id = 4, Name = "Williams", City = "Delhi", Phone = "+91-1234567890", Marks = 59.56 };
 
             List<Student> list = new List<Student>() { c1, c4, c3, c2 };
-            CompareStudents obj = new CompareStudents();
+            /*CompareStudents obj = new CompareStudents();*/
 
             /* for retreiving the list based on the Student Marks you need to create the object of the class which is implementing
                  the IComparer and pass that object as a parameter inside the Sort() method....
             */
 
-            list.Sort(obj);
+            // Approach - 1 - Creating the object of Delegate and pass the object.. 
+            /*Comparison<Student> obj = new Comparison<Student>(CompareNames);*/
+            /*list.Sort(obj);*/
+
+            // Approach - 2 - Directly pass the function name but signaturer must be match with the delegate 
+            /*list.Sort(CompareNames);*/
+
+            // Approach - 3 - Anonymous Function - Create Anonymous function using keyword delegate
+            /*list.Sort(delegate (Student s1, Student s2)
+            {
+                return s1.Name.CompareTo(s2.Name);
+            });*/
+
+            // Approach - 4 - Using Lambda Function
+            /*list.Sort((s1, s2) => s1.Name.CompareTo(s2.Name));*/
+
 
             foreach (Student c in list)
             {
