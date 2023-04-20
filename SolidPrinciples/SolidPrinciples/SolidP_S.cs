@@ -23,7 +23,7 @@ namespace SolidPrinciples
     {
         public static void CalculateArea(IShape shape)
         {
-            Console.WriteLine(shape.GetArea());
+            Console.WriteLine(shape.GetArea();
         }
         static void Main()
         {

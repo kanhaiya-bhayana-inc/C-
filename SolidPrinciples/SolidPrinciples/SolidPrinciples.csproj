@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>SolidPrinciples.SolidP_S</StartupObject>
+    <StartupObject>SolidPrinciples.TestEmployee</StartupObject>
   </PropertyGroup>
 
 </Project>
